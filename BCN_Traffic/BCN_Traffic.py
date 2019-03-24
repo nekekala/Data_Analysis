@@ -47,7 +47,7 @@ def graph(average, months): #Plot the results
 # Main function
 def main():
     start_time = time.time()  # start  a timer to evaluate the performance of the code
-    average, months = concat('G:\Akiss\Desktop') #Location of the .CSV files
+    average, months = concat('Path') #Location of the .CSV files
     print("time execution: %s s" % (time.time() - start_time))  # stop the timer and show us the result
     graph (average, months) # Show us a graphic representation of the results
 
