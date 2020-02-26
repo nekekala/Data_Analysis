@@ -1,2 +1,2 @@
 # Data_Analysis
-Projects with Python (Pandas, Matplot) for Data analysis (!) purposes
+Projects with Python (Pandas, Matplot) for Data analysis purposes.
